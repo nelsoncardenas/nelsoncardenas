@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Alt Text](https://github.com/nelsoncardenas/nelsoncardenas/blob/main/images/gif_mle.gif)
 <!--
 **nelsoncardenas/nelsoncardenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
