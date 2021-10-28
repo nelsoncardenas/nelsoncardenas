@@ -8,7 +8,7 @@ I'm Nelson Cárdenas, a Machine Learning Engineer and Electronic Engineer from C
 
 Welcome to my profile, where I intend to record a fragment of my journey through all the knowledge that I am passionate about (AI, mathematics, coding, drawing, writing, and learning new things), and if it can be expressed in code, perhaps I will save it here.
 
-📫 How to reach me: Linkedin: [![LinkedIn][1.1]][1] or my email nelsoncardenas28@gmail.com.
+📫 How to reach me: Linkedin: [![LinkedIn][1.1]][5] or my email nelsoncardenas28@gmail.com.
 
 ---
 # Skills
@@ -65,6 +65,7 @@ Welcome to my profile, where I intend to record a fragment of my journey through
 [2]: https://tdwi.org/articles/2016/11/15/beer-and-diapers-impossible-correlation.aspx
 [3]: https://en.wikipedia.org/wiki/AlphaGo
 [4]: https://www.youtube.com/watch?v=i8D90DkCLhI&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV
+[5]: https://www.linkedin.com/in/nelsonkrdenas/
 
 <!-- Icons -->
 
