@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/MLE_4.gif" width="900" alt="Nelson Cárdenas Machine Learning Engineer">
+    <img src="https://github.com/nelsoncardenas/nelsoncardenas/blob/main/images/MLE.gif" width="900" alt="Nelson Cárdenas Machine Learning Engineer">
 </p>
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
