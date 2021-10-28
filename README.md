@@ -8,34 +8,57 @@ I'm Nelson Cárdenas, a Machine Learning Engineer and Electronic Engineer from C
 
 Welcome to my profile, where I intend to record a fragment of my journey through all the knowledge that I am passionate about (AI, mathematics, coding, drawing, writing, and learning new things), and if it can be expressed in code, perhaps I will save it here.
 
-You can find me on [![LinkedIn][1.1]][1] or my email nelsoncardenas28@gmail.com.
+📫 How to reach me: Linkedin: [![LinkedIn][1.1]][1] or my email nelsoncardenas28@gmail.com.
 
 ---
-## Skills
+# Skills
+## Programming languages
+![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/-C%20for%20microcontrollers-informational?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/-Arduino-informational?style=for-the-badge&logo=arduino&logoColor=white&color=00979D)
+![](https://custom-icon-badges.herokuapp.com/badge/-Matlab-informational?style=for-the-badge&logo=matlab&color=ff9959)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%20for%20microcontrollers-informational?style=for-the-badge&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/.Left.-.Right.-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+## Data science frameworks
+![](https://img.shields.io/badge/-scikit_learn.-informational?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F7931E)
+![](https://img.shields.io/badge/-Tensorflow-informational?style=for-the-badge&logo=TensorFlow&logoColor=white&color=FF6F00)
+![](https://img.shields.io/badge/-Keras-informational?style=for-the-badge&logo=Keras&logoColor=white&color=D00000)
+![](https://img.shields.io/badge/-Matplotlib-informational?style=for-the-badge&logo=Matplotlib&logoColor=white&color=10557c)
+![](https://img.shields.io/badge/-Seaborn-informational?style=for-the-badge&logo=seaborn&logoColor=white&color=444876)
+![](https://img.shields.io/badge/-Plotly-informational?style=for-the-badge&logo=Plotly&logoColor=white&color=3F4F75)
+![](https://img.shields.io/badge/-NumPy-informational?style=for-the-badge&logo=NumPy&logoColor=white&color=013243)
+![](https://img.shields.io/badge/-Pandas-informational?style=for-the-badge&logo=Pandas&logoColor=white&color=150458)
+![](https://img.shields.io/badge/-SciPy-informational?style=for-the-badge&logo=SciPy&logoColor=white&color=8CAAE6)
+![](https://img.shields.io/badge/-NLTK-informational?style=for-the-badge&logo=nltk&logoColor=white&color=404040)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Code-C%20for%20microcontrollers-informational?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
-
-![](https://img.shields.io/badge/Code-C%20for%20microcontrollers-informational?style=for-the-badge&logo=appveyor&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=for-the-badge&logo=appveyor&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=for-the-badge&logo=appveyor&logo=python&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+# Environment management
+![](https://img.shields.io/badge/-Anaconda-informational?style=for-the-badge&logo=Anaconda&logoColor=white&color=44A833)
+![](https://img.shields.io/badge/-venv-informational?style=for-the-badge&logo=venv&logoColor=white&color=013243)
 
 ---
-##  Github Stats 📈
+
+# Coding and technologies
+![](https://img.shields.io/badge/-Airflow-informational?style=for-the-badge&logo=ApacheAirflow&logoColor=white&color=017CEE)
+![](https://img.shields.io/badge/-Dockerization-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/-OOP-informational?style=for-the-badge&logo=Roundcube&logoColor=white&color=44A833)
+![](https://img.shields.io/badge/-Version_control-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+
+![](https://img.shields.io/badge/-Data_analysis-informational?style=for-the-badge&logo=GooglePodcasts&logoColor=white&color=FFC98B)
+![](https://img.shields.io/badge/-Machine_Learning-informational?style=for-the-badge&logo=AIOHTTP&logoColor=white&color=FFB284)
+
+![](https://img.shields.io/badge/-Web_scraping-informational?style=for-the-badge&logo=WebMoney&logoColor=white&color=1A1F6C)
+![](https://img.shields.io/badge/-Task_automation-informational?style=for-the-badge&logo=Probot&logoColor=white&color=00B0D8)
+
+---
+#  Github Stats 📈
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nelsoncardenas&theme=nord_bright" alt="profile-details">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nelsoncardenas&theme=nord_bright" alt="stats">
 </p>
----
 
-<!-- Links to your social media accounts -->
+
+
+---
+<!-- Links -->
 
 
 [1]: https://www.globalreach.com/global-reach-media/blog/2020/08/10/google-predicts-the-future-with-updates-to-analytics
@@ -46,18 +69,3 @@ You can find me on [![LinkedIn][1.1]][1] or my email nelsoncardenas28@gmail.com.
 <!-- Icons -->
 
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!--
-**nelsoncardenas/nelsoncardenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
