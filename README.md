@@ -8,7 +8,7 @@ I'm Nelson Cárdenas, a Machine Learning Engineer and Electronic Engineer from C
 
 Welcome to my profile, where I intend to record a fragment of my journey through all the knowledge that I am passionate about (AI, mathematics, coding, drawing, writing, and learning new things), and if it can be expressed in code, perhaps I will save it here.
 
-📫 How to reach me: Linkedin: [![LinkedIn][1.1]][5]{:target="_blank"} or my email nelsoncardenas28@gmail.com.
+📫  How to reach me: Linkedin: [![LinkedIn][1.1]][5] or my email nelsoncardenas28@gmail.com.
 
 ---
 # Skills
@@ -59,7 +59,6 @@ Welcome to my profile, where I intend to record a fragment of my journey through
 
 ---
 <!-- Links -->
-
 
 [1]: https://www.globalreach.com/global-reach-media/blog/2020/08/10/google-predicts-the-future-with-updates-to-analytics
 [2]: https://tdwi.org/articles/2016/11/15/beer-and-diapers-impossible-correlation.aspx
