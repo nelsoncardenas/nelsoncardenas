@@ -36,7 +36,7 @@ Welcome to my profile, where I intend to record a fragment of my journey through
 
 ---
 
-# Coding and technologies
+# Miscellaneous
 ![](https://img.shields.io/badge/-Airflow-informational?style=for-the-badge&logo=ApacheAirflow&logoColor=white&color=017CEE)
 ![](https://img.shields.io/badge/-Dockerization-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/-OOP-informational?style=for-the-badge&logo=Roundcube&logoColor=white&color=44A833)
