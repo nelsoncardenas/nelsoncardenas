@@ -19,7 +19,7 @@ Welcome to my profile, where I intend to record a fragment of my journey through
 ![](https://custom-icon-badges.herokuapp.com/badge/-Matlab-informational?style=for-the-badge&logo=matlab&color=ff9959)
 
 ## Data science frameworks
-![](https://img.shields.io/badge/-scikit_learn.-informational?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F7931E)
+![](https://img.shields.io/badge/-scikit_learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F7931E)
 ![](https://img.shields.io/badge/-Tensorflow-informational?style=for-the-badge&logo=TensorFlow&logoColor=white&color=FF6F00)
 ![](https://img.shields.io/badge/-Keras-informational?style=for-the-badge&logo=Keras&logoColor=white&color=D00000)
 ![](https://img.shields.io/badge/-Matplotlib-informational?style=for-the-badge&logo=Matplotlib&logoColor=white&color=10557c)
@@ -49,6 +49,7 @@ Welcome to my profile, where I intend to record a fragment of my journey through
 ![](https://img.shields.io/badge/-Web_scraping-informational?style=for-the-badge&logo=WebMoney&logoColor=white&color=1A1F6C)
 ![](https://img.shields.io/badge/-Task_automation-informational?style=for-the-badge&logo=Probot&logoColor=white&color=00B0D8)
 ![](https://img.shields.io/badge/-Command_line_interface-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=4D4D4D)
+![](https://img.shields.io/badge/-AWS-informational?style=for-the-badge&logo=AmazonAWS&logoColor=white&color=232F3E)
 
 ---
 #  Github Stats 📈
