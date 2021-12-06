@@ -36,6 +36,13 @@ Welcome to my profile, where I intend to record a fragment of my journey through
 
 ---
 
+# Code quality
+![](https://img.shields.io/badge/-Black-informational?style=for-the-badge&logo=&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-Pylint-informational?style=for-the-badge&logo=&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/-flake8-informational?style=for-the-badge&logo=&logoColor=white&color=009688)
+
+---
+
 # Miscellaneous
 ![](https://img.shields.io/badge/-Airflow-informational?style=for-the-badge&logo=ApacheAirflow&logoColor=white&color=017CEE)
 ![](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
