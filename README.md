@@ -30,20 +30,22 @@ Welcome to my profile, where I intend to record a fragment of my journey through
 ![](https://img.shields.io/badge/-SciPy-informational?style=for-the-badge&logo=SciPy&logoColor=white&color=8CAAE6)
 ![](https://img.shields.io/badge/-NLTK-informational?style=for-the-badge&logo=nltk&logoColor=white&color=404040)
 
-# Environment management
+---
+
+## Environment management
 ![](https://img.shields.io/badge/-Anaconda-informational?style=for-the-badge&logo=Anaconda&logoColor=white&color=44A833)
 ![](https://img.shields.io/badge/-venv-informational?style=for-the-badge&logo=venv&logoColor=white&color=013243)
 
 ---
 
-# Code quality
+## Code quality
 ![](https://img.shields.io/badge/-Black-informational?style=for-the-badge&logo=&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Pylint-informational?style=for-the-badge&logo=&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/-flake8-informational?style=for-the-badge&logo=&logoColor=white&color=009688)
 
 ---
 
-# Miscellaneous
+## Miscellaneous
 ![](https://img.shields.io/badge/-Airflow-informational?style=for-the-badge&logo=ApacheAirflow&logoColor=white&color=017CEE)
 ![](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/-FastAPI-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=009688)
