@@ -45,6 +45,13 @@ Welcome to my profile, where I intend to record a fragment of my journey through
 
 ---
 
+## MLops
+![](https://img.shields.io/badge/-MLflow-informational?style=for-the-badge&logo=&logoColor=white&color=0193e1)
+![](https://img.shields.io/badge/-DVC-informational?style=for-the-badge&logo=&logoColor=white&color=935dd6)
+![](https://img.shields.io/badge/-cleanlab-informational?style=for-the-badge&logo=&logoColor=white&color=0096a7)
+
+---
+
 ## Miscellaneous
 ![](https://img.shields.io/badge/-Airflow-informational?style=for-the-badge&logo=ApacheAirflow&logoColor=white&color=017CEE)
 ![](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
