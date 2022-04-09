@@ -66,6 +66,7 @@ Welcome to my profile, where I intend to record a fragment of my journey through
 ![](https://img.shields.io/badge/-Task_automation-informational?style=for-the-badge&logo=Probot&logoColor=white&color=00B0D8)
 ![](https://img.shields.io/badge/-Command_line_interface-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=4D4D4D)
 ![](https://img.shields.io/badge/-AWS-informational?style=for-the-badge&logo=AmazonAWS&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/-GC-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
 
 ---
 #  Github Stats 📈
