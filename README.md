@@ -4,7 +4,7 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Nelson Cárdenas, a Machine Learning Engineer and Electronic Engineer from Colombia. Currently working in @factoredai. I love coding and creating technology to solve problems. Since I discovered artificial intelligence I fell in love with learning all those techniques that seemed magic and with which a machine can learn to predict the future ([1]), detect hidden behaviors in the data ([Beers and diapers](2)), outperform humans in the most complex games ([AlphaGo](3)) or learn to see ([Welch labs channel](4)).
+I'm Nelson Cárdenas, a Machine Learning Engineer and Electronic Engineer from Colombia. Currently working in @factoredai. I love coding and creating technology to solve problems. Since I discovered artificial intelligence I fell in love with learning all those techniques that seemed magic and with which a machine can learn to predict the future ([1]), detect hidden behaviors in the data ([Beers and diapers](2) not really, but interesting story), outperform humans in the most complex games ([AlphaGo](3)) or learn to see ([Welch labs channel](4)).
 
 Welcome to my profile, where I intend to record a fragment of my journey through all the knowledge that I am passionate about (AI, mathematics, coding, drawing, writing, and learning new things), and if it can be expressed in code, perhaps I will save it here.
 
