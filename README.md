@@ -3,7 +3,7 @@
     <img src="https://github.com/nelsoncardenas/nelsoncardenas/blob/main/images/MLE.gif" width="900" alt="Nelson Cárdenas Machine Learning Engineer">
 </p>
 
-Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
 
 I'm Nelson Cárdenas, a Machine Learning Engineer and Electronic Engineer from Colombia. Currently working in @factoredai. I love coding and creating technology to solve problems. Since I discovered artificial intelligence I fell in love with learning all those techniques that seemed magic and with which a machine can learn to predict the future ([1]), detect hidden behaviors in the data ([Beers and diapers] it didn't really happen, but the story is interesting), outperform humans in the most complex games ([AlphaGo]) or learn to see ([Welch labs channel]).
 
