@@ -1,3 +1,4 @@
+[comment]: <> (updated this README based on your cv)
 <p align="center">
     <img src="https://github.com/nelsoncardenas/nelsoncardenas/blob/main/images/MLE.gif" width="900" alt="Nelson Cárdenas Machine Learning Engineer">
 </p>
